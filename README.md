@@ -61,6 +61,6 @@ Want the details? [Download my resume](./GertsDev_CV.pdf) (just click and save)�
 *“If debugging is the process of removing bugs, then programming must be the process of putting them in.”*  
 — At least, that’s what I tell myself on those caffeine-fueled nights.
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GertsDev&show_icons=true&theme=radical)
+
+
 
