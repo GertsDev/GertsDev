@@ -32,7 +32,7 @@ I'm a **Frontend Engineer** with a dark sense of humor who moonlights as an **In
 
 - **[Project One](#):** A sleek web app built with Next.js that makes your daily tasks feel like a walk in the park (or a profitable trade).
 - **[Project Two](#):** An experimental ML-powered interface that tries to predict user behavior—because who needs a crystal ball?
-- **[More Projects](#):** Check out my full portfolio on [my website](https://yourwebsite.com) to see what other digital mischief I’ve been up to.
+- **[More Projects](#):** Check out my full portfolio on [my website](https://gerts.dev) to see what other digital mischief I’ve been up to.
 
 ---
 
@@ -52,9 +52,9 @@ Want the details? [Download my resume](./public/GertsDev_CV.pdf) (just click and
 
 ## Let's Connect
 
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourtwitter](https://twitter.com/yourtwitter)
+- **Email:** [youremail@example.com](mailto:hello@gerts.dev)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/gertsdev)
+- **Twitter:** [@yourtwitter](https://twitter.com/gerts_official)
 
 ---
 
