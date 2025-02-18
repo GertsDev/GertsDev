@@ -38,7 +38,7 @@ I'm a **Frontend Engineer** with a dark sense of humor who moonlights as an **In
 
 ## Download My Resume
 
-Want the details? [Download my resume](./GertsDev_CV.pdf) (just click and save)—no magic required.  
+Want the details? [Download my resume](./public/GertsDev_CV.pdf) (just click and save)—no magic required.  
 *Hint: It's hosted right here in the repo's `public` folder for your convenience.*
 
 ---
