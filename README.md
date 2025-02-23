@@ -1,4 +1,4 @@
-# Hey, I'm Kirill Gertsik 👋
+# Hey, I'm Kirill Gerts 👋
 
 I'm a **Frontend Engineer** with a dark sense of humor who moonlights as an **Investment Advisor** and dabbles in **ML & AI Integration**. I build slick, responsive web apps with React, Next.js, and Tailwind—and occasionally use machine learning to predict which stocks might tank before your morning coffee.
 
