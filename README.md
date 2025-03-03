@@ -1,3 +1,7 @@
+
+![Navy Blue Geometric Technology LinkedIn Banner-6](https://github.com/user-attachments/assets/73fe5367-cd63-4af0-876b-24cfb65344a8)
+
+
 # Hey, I'm Kirill Gerts 👋
 
 I'm a **Frontend Engineer** with a dark sense of humor who moonlights as an **Investment Advisor** and dabbles in **ML & AI Integration**. I build slick, responsive web apps with React, Next.js, and Tailwind—and occasionally use machine learning to predict which stocks might tank before your morning coffee.
