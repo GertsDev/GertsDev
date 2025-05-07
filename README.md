@@ -1,70 +1,68 @@
+## Kirill Gerts
 
-![Navy Blue Geometric Technology LinkedIn Banner-6](https://github.com/user-attachments/assets/73fe5367-cd63-4af0-876b-24cfb65344a8)
+**Frontend Developer** | **Ex-Investment Advisor** | **AI & Fintech Enthusiast**
 
-
-# Hey, I'm Kirill Gerts 👋
-
-I'm a **Frontend Engineer** with a dark sense of humor who moonlights as an **Investment Advisor** and dabbles in **ML & AI Integration**. I build slick, responsive web apps with React, Next.js, and Tailwind—and occasionally use machine learning to predict which stocks might tank before your morning coffee.
+[LinkedIn](https://linkedin.com/in/gertsdev) • [Email](mailto:hello@gerts.dev) • [Website](https://gerts.dev) • [Twitter](https://twitter.com/gertsdev)
 
 ---
 
-## About Me
+### 🌟 My mission is to make the world a better place through impactful software.
 
-- 🔭 **Current Focus:** Building next-gen UIs, optimizing user experiences, and ensuring that no pixel is left unpolished.
-- 💡 **Skills:** 
-  - **Frontend:** React, Next.js, Tailwind CSS, TypeScript
-  - **AI/ML:** Experimenting with ML models to make smarter interfaces
-  - **Finance:** Keeping one eye on the market as I code, because why not?
-- 🌱 **Always Learning:** Whether it's the latest JS framework or a new trick in ML, I'm on it—because there's always a better way (or a faster one) to do things.
+I turn complex, data-heavy financial workflows into fast, intuitive tools—delivering clarity and real-world results. From stock analytics to AI-assisted UIs and client management, I build interfaces that make sophisticated tasks feel simple.
 
-> "Programming is like humor. If you have to explain it, it’s not that good." – Unknown
+As a public advocate for technology—through blogging, thought leadership, and community engagement—I’m passionate about sharing knowledge and inspiring others. I believe software should not just solve problems, but elevate industries and empower people.
 
 ---
 
-## My Tech Toolbox
+### 🛠️ Technical Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-202020?logo=ai&logoColor=white&style=flat)
-
----
-
-## Projects & Portfolio
-
-- **[Project One](#):** A sleek web app built with Next.js that makes your daily tasks feel like a walk in the park (or a profitable trade).
-- **[Project Two](#):** An experimental ML-powered interface that tries to predict user behavior—because who needs a crystal ball?
-- **[More Projects](#):** Check out my full portfolio on [my website](https://gerts.dev) to see what other digital mischief I’ve been up to.
+```js
+const skills = {
+  languages: ['JavaScript', 'TypeScript', 'Python'],
+  frameworks: ['React', 'Next.js', 'node.js'],
+  styling: ['Tailwind CSS', 'CSS modules'],
+  platforms: ['AWS', 'Docker', 'Vercel', 'Railway', 'GitHub'],
+  ai: ['OpenAI', 'Machine Learning', 'Stock Analysis'],
+};
+```
 
 ---
 
-## Download My Resume
+### 🚀 Key Projects
 
-Want the details? [Download my resume](./public/GertsDev_CV.pdf) (just click and save)—no magic required.  
-*Hint: It's hosted right here in the repo's `public` folder for your convenience.*
+**Burgerverse**  
+_It's actually a galactic burger joint app._
 
----
+- GitHub: [https://github.com/GertsDev/burgerverse-frontend](#)
+- Website: [burgerverse.space](#)
 
-## How I Work
-
-- **Code Philosophy:** No nonsense, just results. I write clean, maintainable code and I don’t suffer bloated libraries or over-engineered solutions.
-- **Investment Insight:** I merge creative tech with financial acumen, because building digital solutions is great—but making smart investments pays the bills.
+**Building app for IPO tracking is in progress...**
 
 ---
 
-## Let's Connect
+### 👩‍💼 Experience Snapshot
 
-- **Email:** [youremail@example.com](mailto:hello@gerts.dev)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/gertsdev)
-- **Twitter:** [@yourtwitter](https://twitter.com/gerts_official)
+- Software Developer (3+ years) | Former Senior Financial Advisor
+- Engineering AI-powered products with a focus on UX, scalability, and real-world impact
+- Applying deep financial expertise to solve complex problems—across, but not limited to, fintech
 
 ---
 
-*“If debugging is the process of removing bugs, then programming must be the process of putting them in.”*  
-— At least, that’s what I tell myself on those caffeine-fueled nights.
+### 🌍 Professional Goals
 
+- Engineer modern, AI-powered web applications—applying financial insight where it matters
+- Join a high-impact team solving real-world problems with code
+- Keep learning, keep shipping, keep it clean
 
+---
 
+### 📞 Connect with Me
 
+- **LinkedIn**: [linkedin.com/in/gertsdev](https://linkedin.com/in/gertsdev)
+- **Twitter**: [@gertsdev](https://twitter.com/gerts_official)
+- **Portfolio**: [gerts.dev](https://gerts.dev)
+- **Email**: [hello@gerts.dev](mailto:hello@gerts.dev)
+
+---
+
+_"From markets to microservices—clarity drives results."_
