@@ -1,6 +1,6 @@
 ## Kirill Gerts
 
-**Frontend Developer** | **Ex-Investment Advisor** | **AI & Fintech Enthusiast**
+**Software Engineer** | **Ex-Investment Advisor** | **AI & Fintech Enthusiast**
 
 [LinkedIn](https://linkedin.com/in/gertsdev) • [Email](mailto:hello@gerts.dev) • [Website](https://gerts.dev) • [Twitter](https://twitter.com/gertsdev)
 
@@ -29,6 +29,12 @@ const skills = {
 ---
 
 ### 🚀 Key Projects
+
+**Graft**  
+_Modern and highly functional personal task tracker_
+
+- GitHub: [https://github.com/GertsDev/graft-ink](#)
+- Website: [www.graft.ink](#)
 
 **Burgerverse**  
 _It's actually a galactic burger joint app._
