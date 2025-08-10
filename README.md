@@ -8,24 +8,27 @@
 
 ### 🌟 My mission is to make the world a better place through impactful software.
 
-I turn complex, data-heavy financial workflows into fast, intuitive tools—delivering clarity and real-world results. From stock analytics to AI-assisted UIs and client management, I build interfaces that make sophisticated tasks feel simple.
+I build software that transforms complexity into clarity.
 
-As a public advocate for technology—through blogging, thought leadership, and community engagement—I’m passionate about sharing knowledge and inspiring others. I believe software should not just solve problems, but elevate industries and empower people.
+With a decade in finance and years in engineering, I design fast, intuitive tools for data-heavy workflows—turning stock analytics, AI-assisted UIs, and client management into experiences that feel effortless.
+
+As a public advocate for technology—through writing, speaking, and community work—I aim to share knowledge, inspire others, and push industries forward. For me, great software doesn’t just solve problems. It elevates people and reshapes markets.
 
 ---
 
 ### 🛠️ Technical Stack
 
-```js
-const skills = {
-  languages: ['JavaScript', 'TypeScript', 'Python'],
-  frameworks: ['React', 'Next.js', 'node.js'],
-  styling: ['Tailwind CSS', 'CSS modules'],
-  platforms: ['AWS', 'Docker', 'Vercel', 'Railway', 'GitHub'],
-  ai: ['OpenAI', 'Machine Learning', 'Stock Analysis'],
-};
-```
-
+- **Languages:** JavaScript (ES2025+), TypeScript, Python, SQL
+- **Frontend Frameworks:** React, Next.js (App Router), Astro
+- **Backend & APIs:** Node.js, Express.js, tRPC, GraphQL, REST, WebSockets
+- **Styling & UI:** Tailwind CSS, CSS Modules, Material UI, ShadCN UI, Radix UI, Framer Motion
+- **State & Data:** Zustand, Redux Toolkit, TanStack Query, SWR
+- **Databases & ORM:** PostgreSQL, MySQL, MongoDB, Redis, Prisma, Drizzle ORM
+- **Platforms & DevOps:** AWS, Docker, Vercel, Railway, Netlify, GitHub Actions, CI/CD
+- **Testing & Quality:** Jest, Vitest, Cypress, Playwright, ESLint, Prettier
+- **Authentication & Security:** NextAuth.js, Clerk, Auth0, JWT, OAuth 2.0
+- **AI & Data Science:** OpenAI API, LangChain, Machine Learning, Stock Analysis
+- **Build & Tooling:** Bun, pnpm, Turborepo, Webpack, Vite
 ---
 
 ### 🚀 Key Projects
@@ -46,13 +49,6 @@ _It's actually a galactic burger joint app._
 
 ---
 
-### 👩‍💼 Experience Snapshot
-
-- Software Developer (3+ years) | Former Senior Financial Advisor
-- Engineering AI-powered products with a focus on UX, scalability, and real-world impact
-- Applying deep financial expertise to solve complex problems—across, but not limited to, fintech
-
----
 
 ### 🌍 Professional Goals
 
@@ -62,13 +58,5 @@ _It's actually a galactic burger joint app._
 
 ---
 
-### 📞 Connect with Me
-
-- **LinkedIn**: [linkedin.com/in/gertsdev](https://linkedin.com/in/gertsdev)
-- **Twitter**: [@gertsdev](https://twitter.com/gerts_official)
-- **Portfolio**: [gerts.dev](https://gerts.dev)
-- **Email**: [hello@gerts.dev](mailto:hello@gerts.dev)
-
----
 
 _"From markets to microservices—clarity drives results."_
